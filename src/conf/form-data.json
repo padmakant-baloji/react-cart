@@ -1,0 +1,40 @@
+{
+  "billingAddress": {
+    "firstName": "Padmakant",
+    "lastName": "Baloji",
+    "addressLine1": "TF 06",
+    "addressLine2": "Rajarajeshwari nagar",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "zipcode": "560098",
+    "country": "India"
+  },
+  "shippingAddress": {
+    "firstName": "Padmakant",
+    "lastName": "Baloji",
+    "addressLine1": "TF 06",
+    "addressLine2": "Rajarajeshwari nagar",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "zipcode": "560098",
+    "country": "India"
+  },
+  "cartData": [
+    {
+      "productId": "10000",
+      "productName": "product name 1",
+      "qty": "8",
+      "unitPrice": "529",
+      "totalPrice": "4232",
+      "notes": ""
+    },
+    {
+      "productId": "10001",
+      "productName": "product name 2",
+      "qty": "1",
+      "unitPrice": "800",
+      "totalPrice": "800",
+      "notes": ""
+    }
+  ]
+}
