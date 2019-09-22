@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/padmakant-baloji/react-cart/home/static/css/main.1bbdeede.chunk.css",
-    "main.js": "/padmakant-baloji/react-cart/home/static/js/main.ed49937f.chunk.js",
-    "main.js.map": "/padmakant-baloji/react-cart/home/static/js/main.ed49937f.chunk.js.map",
-    "runtime-main.js": "/padmakant-baloji/react-cart/home/static/js/runtime-main.d47c829b.js",
-    "runtime-main.js.map": "/padmakant-baloji/react-cart/home/static/js/runtime-main.d47c829b.js.map",
-    "static/js/2.1ddd281f.chunk.js": "/padmakant-baloji/react-cart/home/static/js/2.1ddd281f.chunk.js",
-    "static/js/2.1ddd281f.chunk.js.map": "/padmakant-baloji/react-cart/home/static/js/2.1ddd281f.chunk.js.map",
-    "index.html": "/padmakant-baloji/react-cart/home/index.html",
-    "precache-manifest.b155358c2deaead3ea9c938ca0ae3620.js": "/padmakant-baloji/react-cart/home/precache-manifest.b155358c2deaead3ea9c938ca0ae3620.js",
-    "service-worker.js": "/padmakant-baloji/react-cart/home/service-worker.js",
-    "static/css/main.1bbdeede.chunk.css.map": "/padmakant-baloji/react-cart/home/static/css/main.1bbdeede.chunk.css.map"
+    "main.css": "/react-cart/static/css/main.1bbdeede.chunk.css",
+    "main.js": "/react-cart/static/js/main.c5007488.chunk.js",
+    "main.js.map": "/react-cart/static/js/main.c5007488.chunk.js.map",
+    "runtime-main.js": "/react-cart/static/js/runtime-main.c4190368.js",
+    "runtime-main.js.map": "/react-cart/static/js/runtime-main.c4190368.js.map",
+    "static/js/2.1ddd281f.chunk.js": "/react-cart/static/js/2.1ddd281f.chunk.js",
+    "static/js/2.1ddd281f.chunk.js.map": "/react-cart/static/js/2.1ddd281f.chunk.js.map",
+    "index.html": "/react-cart/index.html",
+    "precache-manifest.fc033fc772f26232a250f145f7d633a8.js": "/react-cart/precache-manifest.fc033fc772f26232a250f145f7d633a8.js",
+    "service-worker.js": "/react-cart/service-worker.js",
+    "static/css/main.1bbdeede.chunk.css.map": "/react-cart/static/css/main.1bbdeede.chunk.css.map"
   }
 }
