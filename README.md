@@ -1,6 +1,8 @@
 # react-cart-application
 ## Description
 This is simple react application with cart functionalities.
+## Live Demo
+[Click here for live demo ][https://padmakant-baloji.github.io/react-cart/] 
 
 ## Installation
 Once you have cloned this repository, enter the following commands.
